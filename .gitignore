@@ -1,5 +1,6 @@
 /.venv
 # .venv/
 .env
+!.env.port
 *.log
 !info.log
